@@ -1,0 +1,270 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.top {
+    width: 1000px;
+    max-height: 1500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(202, 197, 197);
+}
+.top img {
+    margin-left: 375px;
+    padding: 45px 0;
+}
+.top p {
+    
+    font-family: 'Outfit', sans-serif;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: 135px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.nike {
+    width: 1000px;
+    height: 1100px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(202, 197, 197);
+}
+.nike p:nth-child(1) {
+  
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 160, 0);
+    
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 65px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+
+}
+.nike p:nth-child(2) {
+    font-family: 'Outfit', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 170px;
+}
+.nike p:nth-child(3) {
+    font-family: 'Outfit', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 0;
+    padding-left: 275px;
+}
+.nike img {
+     padding-top: 50px;
+     padding-bottom: 85px;
+     padding-left: 150px;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    color: gray;
+    font-weight: 500;
+    margin-left: 205px;
+    margin-bottom: 0;
+}
+.text1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    color: gray;
+    font-weight: 500;
+    margin-left: 275px;
+    margin-top: 0;
+    margin-bottom: 75px;
+}
+.button {
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(109, 109, 255);
+    font-weight: 500;
+    padding: 40px 30px;
+    margin: 0 386px ;
+    border-radius: 20px;
+    
+    cursor: pointer;
+    
+    
+}
+.boots {
+    width: 1000px;
+    max-height: 1500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(202, 197, 197);
+}
+.boots p:nth-child(1) {
+    font-family: 'Outfit', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 65px 55px;
+    display: inline-flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+.boots p:nth-child(2) {
+    font-family: 'Outfit', sans-serif;
+    font-size: 25px;
+    color: rgb(55, 55, 55);
+    font-weight: 600;
+    display: inline-flex;
+    margin-left: 450px;
+    border: 3px solid #c4c4c4;
+    padding: 1px 25px;
+    border-radius: 30px;
+
+}
+.boots .img1 {
+    width: 350px;
+  padding-left: 100px;
+}
+.boots .img2 {
+    width: 350px;
+    padding-right: 100px;
+    float: right;
+}
+.pimg1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    display: inline-flex;
+    padding-left: 75px
+}
+.pimg2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    display: inline-flex;
+    padding-left: 110px
+}
+
+.p1img1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 780;
+    display: inline-flex;
+    padding: 0 100px;
+    color: #919191;
+    margin-top: 0;
+}
+.p2img2 {
+ font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 780;
+    display: inline-flex;
+    color: #919191;
+    margin-left: 310px;
+    margin-top: 0;
+    margin-right: 150px;
+}
+.p3img3 {
+ font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 780;
+    display: inline-flex;
+    margin-left: 80px;
+     padding: 30px 15px;
+     background-color: rgb(109, 109, 255);
+     border-radius: 15px;
+     color: white;
+     cursor: pointer;
+}
+.p4img4 {
+ font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 780;
+    display: inline-flex;
+    margin-left: 300px;
+ padding: 30px 15px;
+ background-color: rgb(109, 109, 255);
+ border-radius: 15px;
+ color: white;
+ cursor: pointer;
+}
+.bottom {
+    width: 1000px;
+    height: 470px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(202, 197, 197);
+}
+.o1 {
+font-family: 'Poppins', sans-serif;
+font-size: 27px;
+font-weight: 750;
+display: inline-flex;
+padding: 45px 80px;
+padding-bottom: 0;
+}
+.o2 {
+font-family: 'Poppins', sans-serif;
+font-size: 27px;
+font-weight: 750;
+display: inline-flex;
+margin-left: 250px;
+padding-right: 200px;
+
+}
+.o3 {
+font-family: 'Poppins', sans-serif;
+font-size: 25px;
+font-weight: 500;
+display: inline-flex;
+color:#c4c4c4;
+top: 100px;
+width: 375px;
+margin-left: 70px;
+
+}
+.o4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+font-weight: 500;
+display: inline-flex;
+color:#c4c4c4;
+top: 100px;
+width: 400px;
+margin-left: 100px;
+}
+.img9 {
+    width: 38px;
+    margin-left: 40px;
+    padding-top: 50px;
+}
+.img0 {
+    width: 38px;
+    margin-left: 60px;
+
+    padding-top: 50px;
+}
+.h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    display: inline-flex;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    
+}
+.a1 {
+    margin-left: 550px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(58, 58, 255);
+}
